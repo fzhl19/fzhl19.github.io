@@ -2458,6 +2458,9 @@ ul.links li:hover .bg {
   }
 }
 
+    header {background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url(file://C:/Users/HP/Documents/Gridea/post-images/1.jpeg);}
+    
+    
     .valine {
         display: none;
       }
